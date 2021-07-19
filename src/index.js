@@ -1,4 +1,4 @@
-const express = require('express')  //traer express
+const express = require('express')  //import express installed
 
 const app = express()  //express es funcioin que devuelve objeto que se guarda en app con toda la config deol servidor(metodos, rutas)
 
